@@ -1,0 +1,7 @@
+//- Wrapper
+@mixin wrapper($margin-left: auto, $margin-rght: auto) {
+  box-sizing: border-box;
+  margin-left: $margin-left;
+  margin-right: $margin-rght;
+  width: 96%;
+}

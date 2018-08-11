@@ -1,0 +1,22 @@
+{
+  "name": "threejs",
+  "homepage": "https://github.com/guilherfp/threejs",
+  "authors": [
+    "Guilherme Freitas Pacheco <guilherme.pacheco@pontta.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "colladaLoader": "https://raw.githubusercontent.com/mrdoob/three.js/master/examples/js/loaders/ColladaLoader.js",
+    "detector": "https://raw.githubusercontent.com/mrdoob/three.js/master/examples/js/Detector.js"
+  }
+}
